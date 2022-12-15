@@ -2,8 +2,8 @@
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
 
 ## Table of contents
-- [Day 1](#day-1)
-- [Day 2](#day-2)
+- [Day 1](#day-1:)
+- [Day 2](#day-2:)
 
 ## Day 1: Calorie Counting
 [(Back to top)](#table-of-contents)
