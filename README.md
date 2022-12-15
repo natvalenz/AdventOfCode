@@ -1,7 +1,12 @@
 # AdventOfCode
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
 
+## Table of contents
+- [Day 1](#day-1)
+- [Day 2](#day-2)
+
 ## Day 1: Calorie Counting
+[(Back to top)](#table-of-contents)
 Santa's reindeer typically eat regular reindeer food, but they need a lot of magical energy to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
 
 To supply enough magical energy, the expedition needs to retrieve a minimum of fifty stars by December 25th. Although the Elves assure you that the grove has plenty of fruit, you decide to grab any fruit you see along the way, just in case.
@@ -42,6 +47,7 @@ Find the Elf carrying the most Calories. How many total Calories is that Elf car
 Your puzzle answer was 67027.
 
 ### Part Two
+[(Back to top)](#table-of-contents)
 By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually run out of snacks.
 
 To avoid this unacceptable situation, the Elves would instead like to know the total Calories carried by the top three Elves carrying the most Calories. That way, even if one of those Elves runs out of snacks, they still have two backups.
@@ -53,6 +59,7 @@ Find the top three Elves carrying the most Calories. How many Calories are those
 Your puzzle answer was 197291.
 
 ## Day 2: Rock Paper Scissors
+[(Back to top)](#table-of-contents)
 The Elves begin to set up camp on the beach. To decide whose tent gets to be closest to the snack storage, a giant Rock Paper Scissors tournament is already in progress.
 
 Rock Paper Scissors is a game between two players. Each game contains many rounds; in each round, the players each simultaneously choose one of Rock, Paper, or Scissors using a hand shape. Then, a winner for that round is selected: Rock defeats Scissors, Scissors defeats Paper, and Paper defeats Rock. If both players choose the same shape, the round instead ends in a draw.
@@ -82,6 +89,7 @@ What would your total score be if everything goes exactly according to your stra
 Your puzzle answer was 12794.
 
 ### Part Two
+[(Back to top)](#table-of-contents)
 The Elf finishes helping with the tent and sneaks back over to you. "Anyway, the second column says how the round needs to end: X means you need to lose, Y means you need to end the round in a draw, and Z means you need to win. Good luck!"
 
 The total score is still calculated in the same way, but now you need to figure out what shape to choose so the round ends as indicated. The example above now goes like this:
