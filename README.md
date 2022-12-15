@@ -3,7 +3,6 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 ## Table of contents
 - [Day 1 Calorie Counting](#day-1-calorie-counting)
--   [Part 2](#part-2)
 - [Day 2 Rock Paper Scissors](#day-2-rock-paper-scissors)
 - [Day 3 Rucksack Reorganization](#day-3-rucksack-reorganization)
 - [Day 4 Camp Cleanup](#day-4-camp-cleanup)
