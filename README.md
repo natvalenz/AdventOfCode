@@ -2,10 +2,10 @@
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
 
 ## Table of contents
-- [Day 1: Calorie Counting](#day-1:-calorie-counting)
-- [Day 2](#day-2:)
+- [Day 1 Calorie Counting](#day-1-calorie-counting)
+- [Day 2 Rock Paper Scissors](#day-2-rock-paper-scissors)
 
-## Day 1: Calorie Counting
+## Day 1 Calorie Counting
 [(Back to top)](#table-of-contents)
 <br>
 Santa's reindeer typically eat regular reindeer food, but they need a lot of magical energy to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
@@ -60,7 +60,7 @@ Find the top three Elves carrying the most Calories. How many Calories are those
 
 Your puzzle answer was 197291.
 
-## Day 2: Rock Paper Scissors
+## Day 2 Rock Paper Scissors
 [(Back to top)](#table-of-contents)
 <br>
 The Elves begin to set up camp on the beach. To decide whose tent gets to be closest to the snack storage, a giant Rock Paper Scissors tournament is already in progress.
